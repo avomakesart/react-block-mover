@@ -1,0 +1,41 @@
+.button {
+    background: black;
+    border: none;
+    cursor: pointer;
+}
+
+.button-top {
+    top: 0;
+    left: 150px;
+}
+
+.button-bottom {
+    bottom: 0;
+    left: 150px;
+}
+
+.button-top,
+.button-bottom {
+    height: 149px;
+    width: 498px;
+    position: absolute;
+}
+
+
+.button-left {
+    left: 0;
+    top: 150px;
+}
+
+.button-right {
+    right: 0;
+    top: 150px;
+}
+
+
+.button-left,
+.button-right {
+    height: 498px;
+    width: 149px;
+    position: absolute;
+}

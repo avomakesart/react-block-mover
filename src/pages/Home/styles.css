@@ -1,0 +1,8 @@
+.container {
+  margin: 3.5rem auto;
+  background-color: #c2c2c2;
+  width: 800px;
+  height: 800px;
+  position: relative;
+  border: 1px solid #414141;
+}
